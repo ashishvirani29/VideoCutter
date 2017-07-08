@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoCutter</string>
+    <string name="choose">Choose video from gallery</string>
+    <string name="trim">Trim</string>
+</resources>
